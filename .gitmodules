@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "splatter"]
+	path = splatter
+	url = https://github.com/oshlack/splatter
+	shallow = true
+	registered = true
